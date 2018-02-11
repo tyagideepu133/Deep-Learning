@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# Ignoring datasets from commit
+Neural Networks and Deep Learning/datasets/
